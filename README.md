@@ -1,1 +1,1 @@
-Ray Santos's blog about Software Quality Assurance and Development.
+Ray Santos's personal blog about Software Quality Assurance and Development.
