@@ -1,0 +1,25 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            SqaDev 
+tagline:          Software QA and Development
+url:              http://www.sqadev.com
+paginate:         1
+baseurl:          /
+author:
+  name:           Ray Santos 
+  url:            http://www.sqadev.com
+  email:          hello@sqadev.com
+pages_list:
+  About: '/about'
+  Archives: '/archives'
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/sqadev

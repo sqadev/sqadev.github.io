@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Ray Writes</title>
+ <link href="http://www.raywrites.com/atom.xml" rel="self"/>
+ <link href="http://www.raywrites.com/"/>
+ <updated>2014-10-31T23:59:54-07:00</updated>
+ <id>http://www.raywrites.com</id>
+ <author>
+   <name>Ray Writes</name>
+   <email>github@raywrites.com</email>
+ </author>
+
+ 
+
+</feed>
