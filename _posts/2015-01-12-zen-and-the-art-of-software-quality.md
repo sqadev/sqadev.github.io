@@ -9,7 +9,7 @@ Last month, on December 24, I finished reading *Zen and the Art of Motorcycle Ma
 
 It was my second time reading the book.
 
-The first time I read *Zen and the Art of Motorcycle Maintenance* (which I'll now refer to as *ZAMM*) was in 2002. *ZAMM* explores the concept, meaning, and philosophy of **quality**, which author Pirsig discusses using a form of storytelling that he refers to as Chautaquas:
+The first time I read *Zen and the Art of Motorcycle Maintenance* (which I'll now refer to as *ZAMM*) was in 2002. *ZAMM* explores the concept, meaning, and philosophy of **quality**, which author Pirsig discusses using a form of storytelling that he refers to as Chautauquas:
 
      I would like to use the time to talk in some depth about things
      that seem important. What is in mind is a sort of Chautauqua — 
@@ -19,7 +19,7 @@ The first time I read *Zen and the Art of Motorcycle Maintenance* (which I'll no
      entertain, improve the mind and bring culture and enlightenment
      to the ears and thoughts of the hearer. (ZAMM, p.17)
 
-Although I read *ZAMM* from cover to cover in 2002, I raced through the book and I didn't take time to think and reflect about the Chatauquas. I also remember the book being a very boring read for me at the time.
+Although I read *ZAMM* from cover to cover in 2002, I raced through the book and I didn't take time to think and reflect about the Chautauquas. I also remember the book being a very boring read for me at the time.
 
 Perhaps I wasn't mentally ready for *ZAMM* in 2002, because when I read it again last month I found myself absorbed in the book.
 
