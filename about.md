@@ -9,7 +9,7 @@ I'm Ray Santos and I'm writing to you from San Diego, CA.
 
 This is my personal blog. I started it in January 2015 to document my thoughts, experiences, studies, and adventures in my chosen career of software quality assurance and software testing.
 
-If you live in the U.S. and you've prepared your tax return using commercial software or through a CPA who uses commercial software, chances are pretty high that I've tested components of that software application.
+If you live in the U.S. and you've prepared your tax return using commercial software or through a CPA who uses commercial software, chances are high that I've tested components of that software application.
 
 *--Ray*
 
